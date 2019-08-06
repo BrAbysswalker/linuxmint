@@ -18,15 +18,3 @@ marca texto-perigo
 pwd-diretorio corrente
 mkdir-para criar diretorios
 tab-ele alto completa o comando
-sudo apt update-para atualizar
-sudo apt update && sudo apt install-para atualizar e instalar aplicativo
-&&-continuar comando na mesma linha
-echo-imprimi a tela o que você esta querendo
-touch-muda data e hora do arquivo e caso não exista ele cria 
-cat- para listar o conteudo do arquivo
-cat -n-lista o conteudo
-674 conteudo
-head -n LICENSE-para ler as linhas do começo
-tail -n LICENSE-para ler as linhas finais
-less- paginador
-|-para separar o proximo comando
